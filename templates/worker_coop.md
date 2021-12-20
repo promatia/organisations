@@ -11,7 +11,7 @@ The headquarters of this enterprise shall be at `Headquarters`.
 ## Section 3: Bylaws
 The power to manage the enterprise is vested in the Worker's Council and such officers and employees as it appoints. The Worker's Council of the enterprise is empowered to adopt and amend Bylaws governing the enterprise, and such Bylaws may make any provision in respect to the management or internal affairs of the enterprise which is not contrary to law or this Incorporation Statement.
 
-## Part 2: Bylaws
+# Part 2: Bylaws
 ## Section 1: Profit Distributions
 1. The form of existence of `Short Name` is a profit-seeking worker-owned limited-liability non-stock enterprise (worker coop).
 2. `Short Name` is an enterprise owned jointly by its employees, who are not responsible for debts, obligations or liabilities of the enterprise.
